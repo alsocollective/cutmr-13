@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+*.mov
+*.avi
+*.mp3
+*.mpeg4
+*.wav
+*.ogg
+.DS_Store
